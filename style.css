@@ -1,0 +1,30 @@
+.section_1{
+    padding: 12px;
+    border: 1px solid;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div{
+    margin: 12px;
+    display: block;
+    unicode-bidi: isolate;
+}
+.read_more{
+    text-decoration: none;
+}
+.section_2{
+    margin-top: 12px;
+}
+.dog_container{
+    margin-left: -1px;
+    margin-bottom: 12px;
+}
+.section_3{
+    margin-top: 12px;
+}
+.list_container{
+    margin-top: 20px;
+}
